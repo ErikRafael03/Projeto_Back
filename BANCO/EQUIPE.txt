@@ -1,0 +1,10 @@
+Usamos MySQL
+
+EQUIPE:
+- Adonis
+- Erik Rafael
+- Italo Ruann
+- Antonio Sergio
+- Nilmax
+- Cauan 
+- Cristhian
